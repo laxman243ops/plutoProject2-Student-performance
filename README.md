@@ -7,7 +7,7 @@
 
 | Field | Details |
 |---|---|
-| **Name** | [Your Name] |
+| **Name** | Butcha Laxmana Rao |
 | **Program** | Pluto Academy — Data Analytics Internship |
 | **Project** | Project 02 — Student Performance EDA & Reporting |
 | **Dataset** | Students Performance in Exams (Kaggle) |
@@ -266,6 +266,12 @@ project02_outputs/
 ├── chart6_scatter_reading_math.png
 └── at_risk_segmentation.png
 ```
+<img width="1166" height="473" alt="image" src="https://github.com/user-attachments/assets/6ff0c894-57bf-495b-9a28-42723011c320" />
+<img width="1307" height="707" alt="image" src="https://github.com/user-attachments/assets/e328a7e3-21b4-4b2b-a413-86ebf4a771f4" />
+<img width="821" height="669" alt="image" src="https://github.com/user-attachments/assets/d39f5433-f92e-45f2-8ea9-6149e06d6c20" />
+<img width="1188" height="707" alt="image" src="https://github.com/user-attachments/assets/7ade2874-4202-460a-b24c-03f133eee5f1" />
+<img width="1427" height="707" alt="image" src="https://github.com/user-attachments/assets/2c488971-97bd-4507-8edc-0b1e6b62da62" />
+<img width="1067" height="827" alt="image" src="https://github.com/user-attachments/assets/8e920f17-b941-4e3a-adbc-4246616330ef" />
 
 ---
 
